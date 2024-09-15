@@ -48,4 +48,4 @@ Explore the deployed Hugging Face project here: [https://huggingface.co/spaces/S
 
 ## Video Walkthrough
 
-Watch the video demonstration here: [Link to video demo]
+Watch the video demonstration here: [https://drive.google.com/file/d/1TdqXhUY6E7MY8HaeuDDsIZdDkg6xZyc7/view?usp=sharing]
